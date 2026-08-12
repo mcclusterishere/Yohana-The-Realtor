@@ -1,0 +1,9 @@
+{
+  "name": "Yohana Realty",
+  "short_name": "Yohana",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#0b1f33",
+  "description": "Yohana Robertson — Bridgeport real estate agent."
+}
